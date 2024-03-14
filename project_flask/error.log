@@ -1,0 +1,2014 @@
+[2024-01-08 20:05:52 +0300] [4016] [INFO] Starting gunicorn 21.2.0
+[2024-01-08 20:05:52 +0300] [4016] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4016)
+[2024-01-08 20:05:52 +0300] [4016] [INFO] Using worker: sync
+[2024-01-08 20:05:52 +0300] [4017] [INFO] Booting worker with pid: 4017
+[2024-01-08 20:05:52 +0300] [4018] [INFO] Booting worker with pid: 4018
+[2024-01-08 20:05:52 +0300] [4019] [INFO] Booting worker with pid: 4019
+[2024-01-11 10:38:57 +0300] [4016] [CRITICAL] WORKER TIMEOUT (pid:4017)
+[2024-01-11 10:38:57 +0300] [4016] [CRITICAL] WORKER TIMEOUT (pid:4018)
+[2024-01-11 10:38:57 +0300] [4016] [CRITICAL] WORKER TIMEOUT (pid:4019)
+[2024-01-11 10:38:57 +0300] [4017] [INFO] Worker exiting (pid: 4017)
+[2024-01-11 10:38:57 +0300] [4019] [INFO] Worker exiting (pid: 4019)
+[2024-01-11 10:38:57 +0300] [4018] [INFO] Worker exiting (pid: 4018)
+[2024-01-11 10:38:54 +0300] [4016] [ERROR] Worker (pid:4017) exited with code 1
+[2024-01-11 10:38:54 +0300] [4016] [ERROR] Worker (pid:4017) exited with code 1.
+[2024-01-11 10:38:54 +0300] [4016] [ERROR] Worker (pid:4019) exited with code 1
+[2024-01-11 10:38:54 +0300] [4016] [ERROR] Worker (pid:4019) exited with code 1.
+[2024-01-11 10:38:54 +0300] [4016] [ERROR] Worker (pid:4018) was sent SIGKILL! Perhaps out of memory?
+[2024-01-11 10:38:54 +0300] [4413] [INFO] Booting worker with pid: 4413
+[2024-01-11 10:38:54 +0300] [4412] [INFO] Booting worker with pid: 4412
+[2024-01-11 10:38:54 +0300] [4440] [INFO] Booting worker with pid: 4440
+[2024-01-11 11:08:46 +0300] [4016] [INFO] Handling signal: term
+[2024-01-11 11:08:46 +0300] [4440] [INFO] Worker exiting (pid: 4440)
+[2024-01-11 11:08:46 +0300] [4412] [INFO] Worker exiting (pid: 4412)
+[2024-01-11 11:08:46 +0300] [4413] [INFO] Worker exiting (pid: 4413)
+[2024-01-11 11:08:46 +0300] [4016] [INFO] Shutting down: Master
+[2024-01-11 11:08:48 +0300] [6846] [INFO] Starting gunicorn 21.2.0
+[2024-01-11 11:08:48 +0300] [6846] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (6846)
+[2024-01-11 11:08:48 +0300] [6846] [INFO] Using worker: sync
+[2024-01-11 11:08:48 +0300] [6847] [INFO] Booting worker with pid: 6847
+[2024-01-11 11:08:48 +0300] [6848] [INFO] Booting worker with pid: 6848
+[2024-01-11 11:08:48 +0300] [6849] [INFO] Booting worker with pid: 6849
+[2024-01-11 11:21:19 +0300] [6846] [INFO] Handling signal: term
+[2024-01-11 11:21:19 +0300] [6847] [INFO] Worker exiting (pid: 6847)
+[2024-01-11 11:21:19 +0300] [6848] [INFO] Worker exiting (pid: 6848)
+[2024-01-11 11:21:19 +0300] [6849] [INFO] Worker exiting (pid: 6849)
+[2024-01-11 11:21:19 +0300] [6846] [INFO] Shutting down: Master
+[2024-01-11 11:21:21 +0300] [6896] [INFO] Starting gunicorn 21.2.0
+[2024-01-11 11:21:21 +0300] [6896] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (6896)
+[2024-01-11 11:21:21 +0300] [6896] [INFO] Using worker: sync
+[2024-01-11 11:21:21 +0300] [6897] [INFO] Booting worker with pid: 6897
+[2024-01-11 11:21:21 +0300] [6898] [INFO] Booting worker with pid: 6898
+[2024-01-11 11:21:21 +0300] [6899] [INFO] Booting worker with pid: 6899
+[2024-01-11 11:51:05 +0300] [6896] [INFO] Handling signal: term
+[2024-01-11 11:51:05 +0300] [6898] [INFO] Worker exiting (pid: 6898)
+[2024-01-11 11:51:05 +0300] [6899] [INFO] Worker exiting (pid: 6899)
+[2024-01-11 11:51:05 +0300] [6897] [INFO] Worker exiting (pid: 6897)
+[2024-01-11 11:51:05 +0300] [6896] [INFO] Shutting down: Master
+[2024-01-11 11:51:08 +0300] [7600] [INFO] Starting gunicorn 21.2.0
+[2024-01-11 11:51:08 +0300] [7600] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (7600)
+[2024-01-11 11:51:08 +0300] [7600] [INFO] Using worker: sync
+[2024-01-11 11:51:08 +0300] [7601] [INFO] Booting worker with pid: 7601
+[2024-01-11 11:51:08 +0300] [7602] [INFO] Booting worker with pid: 7602
+[2024-01-11 11:51:08 +0300] [7603] [INFO] Booting worker with pid: 7603
+[2024-01-11 14:52:01 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:7601)
+[2024-01-11 14:52:01 +0300] [7601] [INFO] Worker exiting (pid: 7601)
+[2024-01-11 14:52:01 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:7602)
+[2024-01-11 14:52:01 +0300] [7602] [INFO] Worker exiting (pid: 7602)
+[2024-01-11 14:52:01 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:7603)
+[2024-01-11 14:52:01 +0300] [7603] [INFO] Worker exiting (pid: 7603)
+[2024-01-11 14:52:01 +0300] [7600] [ERROR] Worker (pid:7602) exited with code 1
+[2024-01-11 14:52:01 +0300] [7600] [ERROR] Worker (pid:7602) exited with code 1.
+[2024-01-11 14:52:01 +0300] [7600] [ERROR] Worker (pid:7601) was sent SIGKILL! Perhaps out of memory?
+[2024-01-11 14:52:01 +0300] [7600] [ERROR] Worker (pid:7603) was sent SIGKILL! Perhaps out of memory?
+[2024-01-11 14:52:01 +0300] [7743] [INFO] Booting worker with pid: 7743
+[2024-01-11 14:52:01 +0300] [7744] [INFO] Booting worker with pid: 7744
+[2024-01-11 14:52:01 +0300] [7745] [INFO] Booting worker with pid: 7745
+[2024-01-12 09:53:37 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:7743)
+[2024-01-12 09:53:37 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:7744)
+[2024-01-12 09:53:37 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:7745)
+[2024-01-12 09:53:37 +0300] [7745] [INFO] Worker exiting (pid: 7745)
+[2024-01-12 09:53:37 +0300] [7744] [INFO] Worker exiting (pid: 7744)
+[2024-01-12 09:53:37 +0300] [7743] [INFO] Worker exiting (pid: 7743)
+[2024-01-12 09:53:38 +0300] [7600] [ERROR] Worker (pid:7745) exited with code 1
+[2024-01-12 09:53:38 +0300] [7600] [ERROR] Worker (pid:7745) exited with code 1.
+[2024-01-12 09:53:38 +0300] [7600] [ERROR] Worker (pid:7743) was sent SIGKILL! Perhaps out of memory?
+[2024-01-12 09:53:38 +0300] [7600] [ERROR] Worker (pid:7744) was sent SIGKILL! Perhaps out of memory?
+[2024-01-12 09:53:38 +0300] [33096] [INFO] Booting worker with pid: 33096
+[2024-01-12 09:53:38 +0300] [33101] [INFO] Booting worker with pid: 33101
+[2024-01-12 09:53:38 +0300] [33104] [INFO] Booting worker with pid: 33104
+[2024-01-12 15:25:51 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:33096)
+[2024-01-12 15:25:51 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:33101)
+[2024-01-12 15:25:51 +0300] [7600] [CRITICAL] WORKER TIMEOUT (pid:33104)
+[2024-01-12 15:25:51 +0300] [33104] [INFO] Worker exiting (pid: 33104)
+[2024-01-12 15:25:52 +0300] [33101] [INFO] Worker exiting (pid: 33101)
+[2024-01-12 15:25:52 +0300] [33096] [INFO] Worker exiting (pid: 33096)
+[2024-01-12 15:25:52 +0300] [7600] [ERROR] Worker (pid:33096) exited with code 1
+[2024-01-12 15:25:52 +0300] [7600] [ERROR] Worker (pid:33096) exited with code 1.
+[2024-01-12 15:25:52 +0300] [7600] [ERROR] Worker (pid:33104) was sent SIGKILL! Perhaps out of memory?
+[2024-01-12 15:25:52 +0300] [7600] [ERROR] Worker (pid:33101) was sent SIGKILL! Perhaps out of memory?
+[2024-01-12 15:25:52 +0300] [35333] [INFO] Booting worker with pid: 35333
+[2024-01-12 15:25:52 +0300] [35334] [INFO] Booting worker with pid: 35334
+[2024-01-12 15:25:52 +0300] [35335] [INFO] Booting worker with pid: 35335
+[2024-01-12 17:20:14 +0300] [7600] [INFO] Handling signal: term
+[2024-01-12 17:20:14 +0300] [35333] [INFO] Worker exiting (pid: 35333)
+[2024-01-12 17:20:14 +0300] [35334] [INFO] Worker exiting (pid: 35334)
+[2024-01-12 17:20:14 +0300] [35335] [INFO] Worker exiting (pid: 35335)
+[2024-01-12 17:20:14 +0300] [7600] [INFO] Shutting down: Master
+[2024-01-12 17:20:16 +0300] [35922] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:20:16 +0300] [35922] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35922)
+[2024-01-12 17:20:16 +0300] [35922] [INFO] Using worker: sync
+[2024-01-12 17:20:16 +0300] [35923] [INFO] Booting worker with pid: 35923
+[2024-01-12 17:20:16 +0300] [35923] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:16 +0300] [35923] [INFO] Worker exiting (pid: 35923)
+[2024-01-12 17:20:16 +0300] [35924] [INFO] Booting worker with pid: 35924
+[2024-01-12 17:20:16 +0300] [35924] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:16 +0300] [35924] [INFO] Worker exiting (pid: 35924)
+[2024-01-12 17:20:16 +0300] [35922] [ERROR] Worker (pid:35923) exited with code 3
+[2024-01-12 17:20:16 +0300] [35922] [ERROR] Worker (pid:35924) was sent SIGTERM!
+[2024-01-12 17:20:16 +0300] [35922] [ERROR] Shutting down: Master
+[2024-01-12 17:20:16 +0300] [35922] [ERROR] Reason: Worker failed to boot.
+[2024-01-12 17:20:17 +0300] [35925] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:20:17 +0300] [35925] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35925)
+[2024-01-12 17:20:17 +0300] [35925] [INFO] Using worker: sync
+[2024-01-12 17:20:17 +0300] [35926] [INFO] Booting worker with pid: 35926
+[2024-01-12 17:20:17 +0300] [35927] [INFO] Booting worker with pid: 35927
+[2024-01-12 17:20:17 +0300] [35926] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:17 +0300] [35926] [INFO] Worker exiting (pid: 35926)
+[2024-01-12 17:20:17 +0300] [35927] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:17 +0300] [35927] [INFO] Worker exiting (pid: 35927)
+[2024-01-12 17:20:17 +0300] [35928] [INFO] Booting worker with pid: 35928
+[2024-01-12 17:20:18 +0300] [35928] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:18 +0300] [35925] [ERROR] Worker (pid:35927) exited with code 3
+[2024-01-12 17:20:18 +0300] [35928] [INFO] Worker exiting (pid: 35928)
+[2024-01-12 17:20:18 +0300] [35925] [ERROR] Worker (pid:35926) was sent SIGTERM!
+[2024-01-12 17:20:18 +0300] [35925] [ERROR] Worker (pid:35928) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-01-12 17:20:20 +0300] [35929] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:20:20 +0300] [35929] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35929)
+[2024-01-12 17:20:20 +0300] [35929] [INFO] Using worker: sync
+[2024-01-12 17:20:20 +0300] [35930] [INFO] Booting worker with pid: 35930
+[2024-01-12 17:20:20 +0300] [35930] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:20 +0300] [35930] [INFO] Worker exiting (pid: 35930)
+[2024-01-12 17:20:20 +0300] [35929] [ERROR] Worker (pid:35930) exited with code 3
+[2024-01-12 17:20:20 +0300] [35929] [ERROR] Shutting down: Master
+[2024-01-12 17:20:20 +0300] [35929] [ERROR] Reason: Worker failed to boot.
+[2024-01-12 17:20:23 +0300] [35934] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:20:23 +0300] [35934] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35934)
+[2024-01-12 17:20:23 +0300] [35934] [INFO] Using worker: sync
+[2024-01-12 17:20:23 +0300] [35935] [INFO] Booting worker with pid: 35935
+[2024-01-12 17:20:23 +0300] [35935] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 10, in <module>
+    import telebot
+ModuleNotFoundError: No module named 'telebot'
+[2024-01-12 17:20:23 +0300] [35935] [INFO] Worker exiting (pid: 35935)
+[2024-01-12 17:20:23 +0300] [35934] [ERROR] Worker (pid:35935) exited with code 3
+[2024-01-12 17:20:23 +0300] [35934] [ERROR] Shutting down: Master
+[2024-01-12 17:20:23 +0300] [35934] [ERROR] Reason: Worker failed to boot.
+[2024-01-12 17:25:50 +0300] [35962] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:25:50 +0300] [35962] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35962)
+[2024-01-12 17:25:50 +0300] [35962] [INFO] Using worker: sync
+[2024-01-12 17:25:50 +0300] [35963] [INFO] Booting worker with pid: 35963
+[2024-01-12 17:25:50 +0300] [35964] [INFO] Booting worker with pid: 35964
+[2024-01-12 17:25:50 +0300] [35963] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:50 +0300] [35963] [INFO] Worker exiting (pid: 35963)
+[2024-01-12 17:25:50 +0300] [35965] [INFO] Booting worker with pid: 35965
+[2024-01-12 17:25:50 +0300] [35964] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:50 +0300] [35964] [INFO] Worker exiting (pid: 35964)
+[2024-01-12 17:25:50 +0300] [35962] [ERROR] Worker (pid:35963) exited with code 3
+[2024-01-12 17:25:50 +0300] [35962] [ERROR] Worker (pid:35964) was sent SIGTERM!
+[2024-01-12 17:25:50 +0300] [35965] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:50 +0300] [35965] [INFO] Worker exiting (pid: 35965)
+[2024-01-12 17:25:50 +0300] [35962] [ERROR] Worker (pid:35965) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-01-12 17:25:51 +0300] [35966] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:25:51 +0300] [35966] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35966)
+[2024-01-12 17:25:51 +0300] [35966] [INFO] Using worker: sync
+[2024-01-12 17:25:51 +0300] [35967] [INFO] Booting worker with pid: 35967
+[2024-01-12 17:25:51 +0300] [35968] [INFO] Booting worker with pid: 35968
+[2024-01-12 17:25:51 +0300] [35969] [INFO] Booting worker with pid: 35969
+[2024-01-12 17:25:52 +0300] [35967] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:52 +0300] [35967] [INFO] Worker exiting (pid: 35967)
+[2024-01-12 17:25:52 +0300] [35968] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:52 +0300] [35968] [INFO] Worker exiting (pid: 35968)
+[2024-01-12 17:25:52 +0300] [35966] [ERROR] Worker (pid:35968) exited with code 3
+[2024-01-12 17:25:52 +0300] [35966] [ERROR] Worker (pid:35967) was sent SIGTERM!
+[2024-01-12 17:25:52 +0300] [35969] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:52 +0300] [35969] [INFO] Worker exiting (pid: 35969)
+[2024-01-12 17:25:52 +0300] [35966] [ERROR] Worker (pid:35969) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 209, in run
+    self.sleep()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 360, in sleep
+    ready = select.select([self.PIPE[0]], [], [], 1.0)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-01-12 17:25:54 +0300] [35970] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:25:54 +0300] [35970] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35970)
+[2024-01-12 17:25:54 +0300] [35970] [INFO] Using worker: sync
+[2024-01-12 17:25:54 +0300] [35971] [INFO] Booting worker with pid: 35971
+[2024-01-12 17:25:54 +0300] [35971] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:54 +0300] [35971] [INFO] Worker exiting (pid: 35971)
+[2024-01-12 17:25:54 +0300] [35972] [INFO] Booting worker with pid: 35972
+[2024-01-12 17:25:54 +0300] [35970] [ERROR] Worker (pid:35971) exited with code 3
+[2024-01-12 17:25:54 +0300] [35972] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:54 +0300] [35972] [INFO] Worker exiting (pid: 35972)
+[2024-01-12 17:25:54 +0300] [35970] [ERROR] Worker (pid:35972) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-01-12 17:25:58 +0300] [35973] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:25:58 +0300] [35973] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (35973)
+[2024-01-12 17:25:58 +0300] [35973] [INFO] Using worker: sync
+[2024-01-12 17:25:58 +0300] [35974] [INFO] Booting worker with pid: 35974
+[2024-01-12 17:25:58 +0300] [35975] [INFO] Booting worker with pid: 35975
+[2024-01-12 17:25:58 +0300] [35976] [INFO] Booting worker with pid: 35976
+[2024-01-12 17:25:58 +0300] [35974] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:58 +0300] [35974] [INFO] Worker exiting (pid: 35974)
+[2024-01-12 17:25:58 +0300] [35973] [ERROR] Worker (pid:35974) exited with code 3
+[2024-01-12 17:25:58 +0300] [35975] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:58 +0300] [35975] [INFO] Worker exiting (pid: 35975)
+[2024-01-12 17:25:58 +0300] [35976] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 11, in <module>
+    import speech_recognition
+ModuleNotFoundError: No module named 'speech_recognition'
+[2024-01-12 17:25:58 +0300] [35976] [INFO] Worker exiting (pid: 35976)
+[2024-01-12 17:25:58 +0300] [35973] [ERROR] Worker (pid:35975) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 209, in run
+    self.sleep()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 360, in sleep
+    ready = select.select([self.PIPE[0]], [], [], 1.0)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-01-12 17:32:19 +0300] [36005] [INFO] Starting gunicorn 21.2.0
+[2024-01-12 17:32:19 +0300] [36005] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (36005)
+[2024-01-12 17:32:19 +0300] [36005] [INFO] Using worker: sync
+[2024-01-12 17:32:19 +0300] [36006] [INFO] Booting worker with pid: 36006
+[2024-01-12 17:32:19 +0300] [36007] [INFO] Booting worker with pid: 36007
+[2024-01-12 17:32:19 +0300] [36008] [INFO] Booting worker with pid: 36008
+[2024-02-18 17:02:21 +0300] [36005] [CRITICAL] WORKER TIMEOUT (pid:36006)
+[2024-02-18 17:02:21 +0300] [36006] [INFO] Worker exiting (pid: 36006)
+[2024-02-18 17:02:21 +0300] [36005] [CRITICAL] WORKER TIMEOUT (pid:36007)
+[2024-02-18 17:02:21 +0300] [36007] [INFO] Worker exiting (pid: 36007)
+[2024-02-18 17:02:21 +0300] [36005] [CRITICAL] WORKER TIMEOUT (pid:36008)
+[2024-02-18 17:02:21 +0300] [36008] [INFO] Worker exiting (pid: 36008)
+[2024-02-18 17:02:22 +0300] [36005] [ERROR] Worker (pid:36008) exited with code 1
+[2024-02-18 17:02:22 +0300] [36005] [ERROR] Worker (pid:36008) exited with code 1.
+[2024-02-18 17:02:22 +0300] [36005] [ERROR] Worker (pid:36007) exited with code 1
+[2024-02-18 17:02:22 +0300] [36005] [ERROR] Worker (pid:36007) exited with code 1.
+[2024-02-18 17:02:22 +0300] [36788] [INFO] Booting worker with pid: 36788
+[2024-02-18 17:02:22 +0300] [36005] [ERROR] Worker (pid:36006) was sent SIGKILL! Perhaps out of memory?
+[2024-02-18 17:02:22 +0300] [36795] [INFO] Booting worker with pid: 36795
+[2024-02-18 17:02:22 +0300] [36813] [INFO] Booting worker with pid: 36813
+[2024-02-18 17:02:48 +0300] [36005] [INFO] Handling signal: term
+[2024-02-18 17:02:48 +0300] [36788] [INFO] Worker exiting (pid: 36788)
+[2024-02-18 17:02:48 +0300] [36795] [INFO] Worker exiting (pid: 36795)
+[2024-02-18 17:02:48 +0300] [36813] [INFO] Worker exiting (pid: 36813)
+[2024-02-18 17:02:49 +0300] [36005] [INFO] Shutting down: Master
+[2024-02-18 17:03:55 +0300] [1207] [INFO] Starting gunicorn 21.2.0
+[2024-02-18 17:03:55 +0300] [1207] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1207)
+[2024-02-18 17:03:55 +0300] [1207] [INFO] Using worker: sync
+[2024-02-18 17:03:55 +0300] [1352] [INFO] Booting worker with pid: 1352
+[2024-02-18 17:03:55 +0300] [1355] [INFO] Booting worker with pid: 1355
+[2024-02-18 17:03:55 +0300] [1359] [INFO] Booting worker with pid: 1359
+[2024-02-23 10:37:52 +0300] [1207] [CRITICAL] WORKER TIMEOUT (pid:1352)
+[2024-02-23 10:37:52 +0300] [1352] [INFO] Worker exiting (pid: 1352)
+[2024-02-23 10:37:52 +0300] [1207] [CRITICAL] WORKER TIMEOUT (pid:1355)
+[2024-02-23 10:37:52 +0300] [1355] [INFO] Worker exiting (pid: 1355)
+[2024-02-23 10:37:52 +0300] [1207] [CRITICAL] WORKER TIMEOUT (pid:1359)
+[2024-02-23 10:37:52 +0300] [1359] [INFO] Worker exiting (pid: 1359)
+[2024-02-23 10:37:53 +0300] [1207] [ERROR] Worker (pid:1352) exited with code 1
+[2024-02-23 10:37:53 +0300] [1207] [ERROR] Worker (pid:1352) exited with code 1.
+[2024-02-23 10:37:53 +0300] [1207] [ERROR] Worker (pid:1359) was sent SIGKILL! Perhaps out of memory?
+[2024-02-23 10:37:53 +0300] [2251] [INFO] Booting worker with pid: 2251
+[2024-02-23 10:37:53 +0300] [1207] [ERROR] Worker (pid:1355) was sent SIGKILL! Perhaps out of memory?
+[2024-02-23 10:37:53 +0300] [2255] [INFO] Booting worker with pid: 2255
+[2024-02-23 10:37:53 +0300] [2261] [INFO] Booting worker with pid: 2261
+[2024-02-23 11:01:38 +0300] [1207] [INFO] Handling signal: term
+[2024-02-23 11:01:38 +0300] [2255] [INFO] Worker exiting (pid: 2255)
+[2024-02-23 11:01:38 +0300] [2251] [INFO] Worker exiting (pid: 2251)
+[2024-02-23 11:01:38 +0300] [2261] [INFO] Worker exiting (pid: 2261)
+[2024-02-23 11:01:38 +0300] [1207] [INFO] Shutting down: Master
+[2024-02-23 11:01:40 +0300] [2813] [INFO] Starting gunicorn 21.2.0
+[2024-02-23 11:01:40 +0300] [2813] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (2813)
+[2024-02-23 11:01:40 +0300] [2813] [INFO] Using worker: sync
+[2024-02-23 11:01:40 +0300] [2814] [INFO] Booting worker with pid: 2814
+[2024-02-23 11:01:40 +0300] [2815] [INFO] Booting worker with pid: 2815
+[2024-02-23 11:01:40 +0300] [2816] [INFO] Booting worker with pid: 2816
+[2024-02-27 17:47:11 +0300] [2813] [CRITICAL] WORKER TIMEOUT (pid:2814)
+[2024-02-27 17:47:11 +0300] [2813] [CRITICAL] WORKER TIMEOUT (pid:2815)
+[2024-02-27 17:47:11 +0300] [2813] [CRITICAL] WORKER TIMEOUT (pid:2816)
+[2024-02-27 17:47:11 +0300] [2815] [INFO] Worker exiting (pid: 2815)
+[2024-02-27 17:47:11 +0300] [2816] [INFO] Worker exiting (pid: 2816)
+[2024-02-27 17:47:11 +0300] [2814] [INFO] Worker exiting (pid: 2814)
+[2024-02-27 17:47:11 +0300] [2813] [ERROR] Worker (pid:2815) exited with code 1
+[2024-02-27 17:47:11 +0300] [2813] [ERROR] Worker (pid:2815) exited with code 1.
+[2024-02-27 17:47:11 +0300] [2813] [ERROR] Worker (pid:2816) was sent SIGKILL! Perhaps out of memory?
+[2024-02-27 17:47:11 +0300] [3179] [INFO] Booting worker with pid: 3179
+[2024-02-27 17:47:11 +0300] [2813] [ERROR] Worker (pid:2814) was sent SIGKILL! Perhaps out of memory?
+[2024-02-27 17:47:11 +0300] [3184] [INFO] Booting worker with pid: 3184
+[2024-02-27 17:47:11 +0300] [3187] [INFO] Booting worker with pid: 3187
+[2024-03-12 19:03:39 +0300] [2813] [CRITICAL] WORKER TIMEOUT (pid:3179)
+[2024-03-12 19:03:39 +0300] [3179] [INFO] Worker exiting (pid: 3179)
+[2024-03-12 19:03:39 +0300] [2813] [CRITICAL] WORKER TIMEOUT (pid:3184)
+[2024-03-12 19:03:39 +0300] [2813] [CRITICAL] WORKER TIMEOUT (pid:3187)
+[2024-03-12 19:03:39 +0300] [3184] [INFO] Worker exiting (pid: 3184)
+[2024-03-12 19:03:39 +0300] [3187] [INFO] Worker exiting (pid: 3187)
+[2024-03-12 19:03:39 +0300] [2813] [ERROR] Worker (pid:3179) exited with code 1
+[2024-03-12 19:03:39 +0300] [2813] [ERROR] Worker (pid:3179) exited with code 1.
+[2024-03-12 19:03:39 +0300] [2813] [ERROR] Worker (pid:3187) was sent SIGKILL! Perhaps out of memory?
+[2024-03-12 19:03:39 +0300] [2813] [ERROR] Worker (pid:3184) was sent SIGKILL! Perhaps out of memory?
+[2024-03-12 19:03:39 +0300] [4171] [INFO] Booting worker with pid: 4171
+[2024-03-12 19:03:39 +0300] [4182] [INFO] Booting worker with pid: 4182
+[2024-03-12 19:03:39 +0300] [4200] [INFO] Booting worker with pid: 4200
+[2024-03-12 19:59:12 +0300] [2813] [INFO] Handling signal: term
+[2024-03-12 19:59:12 +0300] [4171] [INFO] Worker exiting (pid: 4171)
+[2024-03-12 19:59:12 +0300] [4182] [INFO] Worker exiting (pid: 4182)
+[2024-03-12 19:59:12 +0300] [4200] [INFO] Worker exiting (pid: 4200)
+[2024-03-12 19:59:12 +0300] [2813] [INFO] Shutting down: Master
+[2024-03-12 19:59:13 +0300] [4693] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 19:59:13 +0300] [4693] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4693)
+[2024-03-12 19:59:13 +0300] [4693] [INFO] Using worker: sync
+[2024-03-12 19:59:13 +0300] [4694] [INFO] Booting worker with pid: 4694
+[2024-03-12 19:59:13 +0300] [4695] [INFO] Booting worker with pid: 4695
+[2024-03-12 19:59:13 +0300] [4694] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:13 +0300] [4694] [INFO] Worker exiting (pid: 4694)
+[2024-03-12 19:59:13 +0300] [4695] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:13 +0300] [4695] [INFO] Worker exiting (pid: 4695)
+[2024-03-12 19:59:13 +0300] [4696] [INFO] Booting worker with pid: 4696
+[2024-03-12 19:59:13 +0300] [4693] [ERROR] Worker (pid:4694) exited with code 3
+[2024-03-12 19:59:13 +0300] [4693] [ERROR] Worker (pid:4695) was sent SIGTERM!
+[2024-03-12 19:59:13 +0300] [4696] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:13 +0300] [4696] [INFO] Worker exiting (pid: 4696)
+[2024-03-12 19:59:13 +0300] [4693] [ERROR] Worker (pid:4696) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 19:59:14 +0300] [4697] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 19:59:14 +0300] [4697] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4697)
+[2024-03-12 19:59:14 +0300] [4697] [INFO] Using worker: sync
+[2024-03-12 19:59:14 +0300] [4698] [INFO] Booting worker with pid: 4698
+[2024-03-12 19:59:14 +0300] [4699] [INFO] Booting worker with pid: 4699
+[2024-03-12 19:59:14 +0300] [4700] [INFO] Booting worker with pid: 4700
+[2024-03-12 19:59:15 +0300] [4698] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:15 +0300] [4698] [INFO] Worker exiting (pid: 4698)
+[2024-03-12 19:59:15 +0300] [4697] [ERROR] Worker (pid:4698) exited with code 3
+[2024-03-12 19:59:15 +0300] [4699] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:15 +0300] [4699] [INFO] Worker exiting (pid: 4699)
+[2024-03-12 19:59:15 +0300] [4700] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:15 +0300] [4700] [INFO] Worker exiting (pid: 4700)
+[2024-03-12 19:59:15 +0300] [4697] [ERROR] Worker (pid:4699) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 19:59:17 +0300] [4701] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 19:59:17 +0300] [4701] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4701)
+[2024-03-12 19:59:17 +0300] [4701] [INFO] Using worker: sync
+[2024-03-12 19:59:17 +0300] [4702] [INFO] Booting worker with pid: 4702
+[2024-03-12 19:59:17 +0300] [4703] [INFO] Booting worker with pid: 4703
+[2024-03-12 19:59:17 +0300] [4704] [INFO] Booting worker with pid: 4704
+[2024-03-12 19:59:17 +0300] [4703] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:17 +0300] [4703] [INFO] Worker exiting (pid: 4703)
+[2024-03-12 19:59:17 +0300] [4702] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:17 +0300] [4701] [ERROR] Worker (pid:4703) exited with code 3
+[2024-03-12 19:59:17 +0300] [4702] [INFO] Worker exiting (pid: 4702)
+[2024-03-12 19:59:17 +0300] [4701] [ERROR] Worker (pid:4702) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 209, in run
+    self.sleep()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 360, in sleep
+    ready = select.select([self.PIPE[0]], [], [], 1.0)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 19:59:17 +0300] [4704] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:17 +0300] [4704] [INFO] Worker exiting (pid: 4704)
+[2024-03-12 19:59:20 +0300] [4705] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 19:59:20 +0300] [4705] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4705)
+[2024-03-12 19:59:20 +0300] [4705] [INFO] Using worker: sync
+[2024-03-12 19:59:20 +0300] [4706] [INFO] Booting worker with pid: 4706
+[2024-03-12 19:59:20 +0300] [4707] [INFO] Booting worker with pid: 4707
+[2024-03-12 19:59:20 +0300] [4708] [INFO] Booting worker with pid: 4708
+[2024-03-12 19:59:20 +0300] [4707] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:20 +0300] [4707] [INFO] Worker exiting (pid: 4707)
+[2024-03-12 19:59:20 +0300] [4705] [ERROR] Worker (pid:4707) exited with code 3
+[2024-03-12 19:59:20 +0300] [4706] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:20 +0300] [4706] [INFO] Worker exiting (pid: 4706)
+[2024-03-12 19:59:20 +0300] [4705] [ERROR] Worker (pid:4706) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 209, in run
+    self.sleep()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 360, in sleep
+    ready = select.select([self.PIPE[0]], [], [], 1.0)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 19:59:20 +0300] [4708] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 19:59:20 +0300] [4708] [INFO] Worker exiting (pid: 4708)
+[2024-03-12 20:05:19 +0300] [4733] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 20:05:19 +0300] [4733] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4733)
+[2024-03-12 20:05:19 +0300] [4733] [INFO] Using worker: sync
+[2024-03-12 20:05:19 +0300] [4734] [INFO] Booting worker with pid: 4734
+[2024-03-12 20:05:19 +0300] [4735] [INFO] Booting worker with pid: 4735
+[2024-03-12 20:05:19 +0300] [4734] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:19 +0300] [4734] [INFO] Worker exiting (pid: 4734)
+[2024-03-12 20:05:19 +0300] [4736] [INFO] Booting worker with pid: 4736
+[2024-03-12 20:05:19 +0300] [4733] [ERROR] Worker (pid:4734) exited with code 3
+[2024-03-12 20:05:19 +0300] [4735] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:19 +0300] [4735] [INFO] Worker exiting (pid: 4735)
+[2024-03-12 20:05:19 +0300] [4736] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:19 +0300] [4736] [INFO] Worker exiting (pid: 4736)
+[2024-03-12 20:05:19 +0300] [4733] [ERROR] Worker (pid:4735) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 20:05:21 +0300] [4737] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 20:05:21 +0300] [4737] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4737)
+[2024-03-12 20:05:21 +0300] [4737] [INFO] Using worker: sync
+[2024-03-12 20:05:21 +0300] [4738] [INFO] Booting worker with pid: 4738
+[2024-03-12 20:05:21 +0300] [4739] [INFO] Booting worker with pid: 4739
+[2024-03-12 20:05:21 +0300] [4738] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:21 +0300] [4738] [INFO] Worker exiting (pid: 4738)
+[2024-03-12 20:05:21 +0300] [4740] [INFO] Booting worker with pid: 4740
+[2024-03-12 20:05:21 +0300] [4737] [ERROR] Worker (pid:4738) exited with code 3
+[2024-03-12 20:05:21 +0300] [4739] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:21 +0300] [4739] [INFO] Worker exiting (pid: 4739)
+[2024-03-12 20:05:21 +0300] [4737] [ERROR] Worker (pid:4739) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 20:05:21 +0300] [4740] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:21 +0300] [4740] [INFO] Worker exiting (pid: 4740)
+[2024-03-12 20:05:23 +0300] [4741] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 20:05:23 +0300] [4741] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4741)
+[2024-03-12 20:05:23 +0300] [4741] [INFO] Using worker: sync
+[2024-03-12 20:05:23 +0300] [4742] [INFO] Booting worker with pid: 4742
+[2024-03-12 20:05:23 +0300] [4742] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:23 +0300] [4742] [INFO] Worker exiting (pid: 4742)
+[2024-03-12 20:05:23 +0300] [4743] [INFO] Booting worker with pid: 4743
+[2024-03-12 20:05:23 +0300] [4741] [ERROR] Worker (pid:4742) exited with code 3
+[2024-03-12 20:05:23 +0300] [4743] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:23 +0300] [4743] [INFO] Worker exiting (pid: 4743)
+[2024-03-12 20:05:23 +0300] [4741] [ERROR] Worker (pid:4743) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 643, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 20:05:26 +0300] [4748] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 20:05:26 +0300] [4748] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4748)
+[2024-03-12 20:05:26 +0300] [4748] [INFO] Using worker: sync
+[2024-03-12 20:05:26 +0300] [4749] [INFO] Booting worker with pid: 4749
+[2024-03-12 20:05:26 +0300] [4750] [INFO] Booting worker with pid: 4750
+[2024-03-12 20:05:26 +0300] [4751] [INFO] Booting worker with pid: 4751
+[2024-03-12 20:05:26 +0300] [4749] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:26 +0300] [4749] [INFO] Worker exiting (pid: 4749)
+[2024-03-12 20:05:26 +0300] [4748] [ERROR] Worker (pid:4749) exited with code 3
+[2024-03-12 20:05:26 +0300] [4750] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:26 +0300] [4750] [INFO] Worker exiting (pid: 4750)
+[2024-03-12 20:05:26 +0300] [4751] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/wsgi.py", line 2, in <module>
+    from app import app
+  File "/var/www/project_flask/app.py", line 2, in <module>
+    app = Flask(name)
+NameError: name 'name' is not defined
+[2024-03-12 20:05:26 +0300] [4751] [INFO] Worker exiting (pid: 4751)
+[2024-03-12 20:05:26 +0300] [4748] [ERROR] Worker (pid:4750) exited with code 3
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 209, in run
+    self.sleep()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 360, in sleep
+    ready = select.select([self.PIPE[0]], [], [], 1.0)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 396, in stop
+    time.sleep(0.1)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 530, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2024-03-12 20:16:52 +0300] [4814] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 20:16:52 +0300] [4814] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4814)
+[2024-03-12 20:16:52 +0300] [4814] [INFO] Using worker: sync
+[2024-03-12 20:16:52 +0300] [4815] [INFO] Booting worker with pid: 4815
+[2024-03-12 20:16:52 +0300] [4816] [INFO] Booting worker with pid: 4816
+[2024-03-12 20:16:52 +0300] [4817] [INFO] Booting worker with pid: 4817
+[2024-03-12 20:43:45 +0300] [4814] [INFO] Handling signal: term
+[2024-03-12 20:43:45 +0300] [4815] [INFO] Worker exiting (pid: 4815)
+[2024-03-12 20:43:45 +0300] [4816] [INFO] Worker exiting (pid: 4816)
+[2024-03-12 20:43:45 +0300] [4817] [INFO] Worker exiting (pid: 4817)
+[2024-03-12 20:43:45 +0300] [4814] [INFO] Shutting down: Master
+[2024-03-12 20:43:47 +0300] [4882] [INFO] Starting gunicorn 21.2.0
+[2024-03-12 20:43:47 +0300] [4882] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (4882)
+[2024-03-12 20:43:47 +0300] [4882] [INFO] Using worker: sync
+[2024-03-12 20:43:47 +0300] [4883] [INFO] Booting worker with pid: 4883
+[2024-03-12 20:43:47 +0300] [4884] [INFO] Booting worker with pid: 4884
+[2024-03-12 20:43:47 +0300] [4885] [INFO] Booting worker with pid: 4885
+[2024-03-14 15:29:43 +0300] [4882] [CRITICAL] WORKER TIMEOUT (pid:4883)
+[2024-03-14 15:29:43 +0300] [4882] [CRITICAL] WORKER TIMEOUT (pid:4884)
+[2024-03-14 15:29:43 +0300] [4884] [INFO] Worker exiting (pid: 4884)
+[2024-03-14 15:29:43 +0300] [4883] [INFO] Worker exiting (pid: 4883)
+[2024-03-14 15:29:43 +0300] [4882] [ERROR] Worker (pid:4884) exited with code 1
+[2024-03-14 15:29:43 +0300] [4882] [ERROR] Worker (pid:4884) exited with code 1.
+[2024-03-14 15:29:43 +0300] [5017] [INFO] Booting worker with pid: 5017
+[2024-03-14 15:29:43 +0300] [4882] [ERROR] Worker (pid:4883) exited with code 1
+[2024-03-14 15:29:43 +0300] [4882] [ERROR] Worker (pid:4883) exited with code 1.
+[2024-03-14 15:29:43 +0300] [5041] [INFO] Booting worker with pid: 5041
