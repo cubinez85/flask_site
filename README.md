@@ -22,4 +22,14 @@ python -m venv venv
 source venv/bin/activate
 # устанавливаем flask и gunicorn:
 pip install flask gunicorn
-# далее устанавливаем все файлы проекта
+# создаем app.py (см в дир проекта)
+# создаем дир /templates и index.html(см в дир проекта)
+mkdir -p templates/
+nano templates/index.html
+# в дир /var/www/project_flask/ создаем wsgi.py (см в дир проекта):
+nano wsgi.py
+# Создайте новый файл конфигурации « /etc/supervisor/conf.d/app.conf » (см в дир проекта)
+# далее настройка nginx (см в дир проекта):
+sudo nano /etc/nginx/sites-available/app.conf
+sudo ln -s /etc/nginx/sites-available/app.conf /etc/nginx/sites-enabled/ 
+sudo nginx -t
