@@ -33,3 +33,7 @@ nano wsgi.py
 sudo nano /etc/nginx/sites-available/app.conf
 sudo ln -s /etc/nginx/sites-available/app.conf /etc/nginx/sites-enabled/ 
 sudo nginx -t
+# установить модули Flask-MySQLdb mysql-connector-python
+pip install Flask-MySQLdb mysql-connector-python
+# установить инструменты сборки pkg-config
+sudo apt-get install pkg-config build-essential libmysqlclient-dev
